@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Duong! 👨‍💻🌌  
+![Profile Banner](https://raw.githubusercontent.com/yurivolkov21/yurivolkov21/main/assets/images/space-solar-system-planets-art-4k-wallpaper-uhdpaper.com-236@0@f.jpg)
+
 **Welcome to my Galactic-Programming journey!**  
 [Twitter](https://x.com/YuriVolkov1210) | [LinkedIn](https://www.linkedin.com/in/duong-giang-483009384/) | [GitHub](https://github.com/yurivolkov21)
 
