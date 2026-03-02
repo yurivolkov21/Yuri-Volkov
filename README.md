@@ -4,55 +4,62 @@
 Here are some ideas to get you started:
 -->
 
-# Hi there, I'm Duong! 👨‍💻🌌  
-![Profile Banner](https://raw.githubusercontent.com/yurivolkov21/yurivolkov21/main/assets/images/space-solar-system-planets-art-4k-wallpaper-uhdpaper.com-236@0@f.jpg)
+# Hi there, I'm Duong!
+![Profile Banner](https://raw.githubusercontent.com/yurivolkov21/yurivolkov21/main/assets/images/astronaut-jelly-fish-space-digital-art-4k-wallpaper-uhdpaper.com-86@5@h.jpg)
 
-**Welcome to my Galactic-Programming journey!**  
+**Welcome to my Galactic-Programming journey!**
 [Twitter](https://x.com/YuriVolkov1210) | [LinkedIn](https://www.linkedin.com/in/duong-giang-483009384/) | [GitHub](https://github.com/yurivolkov21)
 
 ---
 
-## About Me  
-Hello! My name is Duong, a student from VTC Academy studying IT (Full-Stack Development) . I’m a passionate developer exploring full-stack technologies 🌱, with a love for coding and UI/UX design 🎨. Currently, I’m part of the Galactic-Programming team, building innovative web applications!
+## About Me
+Hello! My name is Duong, a final-year student at VTC Academy majoring in IT (Full-Stack Development), currently in the last phase of my studies before graduation.
+
+Over the course of my program, I have built a solid foundation in both frontend and backend development — working with React JS for building interactive UIs, Laravel and .NET for server-side logic, and managing data with SQL databases. I also have hands-on experience with Git-based workflows and collaborative development through real team projects.
+
+Looking ahead, I aim to grow into a professional full-stack developer, focusing on building scalable web applications with clean architecture and thoughtful user experience. I have a genuine interest in UI/UX design and enjoy bridging the gap between functionality and aesthetics.
+
+Outside of coding, I enjoy exploring new technologies, contributing to team projects, and continuously improving my craft. I am currently an active member of the Galactic-Programming team, where we collaborate on developing innovative web-based tools.
 
 ---
 
-## What I'm Up To  
-🔭 I’m currently working on web applications using React JS and Laravel, including a group project called Galactic-Programming for building collaborative coding tools.  
-🌱 I’m currently learning React JS for frontend, Laravel + PHP and .NET for backend, along with more programming languages like JavaScript, C#, and SQL to build full-stack apps.  
-👯 I’m looking to collaborate on open-source web projects, especially in the Galactic-Programming group – let's build innovative apps together! Feel free to open issues or PRs on my repos.  
-🤔 I’m looking for help with advanced state management in React JS or optimizing APIs in Laravel – any tips from experienced devs are welcome!  
-💬 Ask me about full-stack development with React, Laravel, or .NET, or how to get started with GitHub Education perks!
+## What I'm Up To
+- Continuing to contribute to the Galactic-Programming team project while also working on personal projects to strengthen my skills independently.
+- Have completed a foundational learning phase of React JS and Laravel — comfortable with the basics and have working knowledge of JavaScript and PHP, though still growing toward a deeper level of mastery.
+- Currently self-studying Node.js and exploring Next.js to transition toward a modern JavaScript-based fullstack approach (Next.js + Node.js).
+- Planning to dive into NoSQL databases in the near future to complement my existing SQL knowledge and broaden my backend capabilities.
+- Open to collaborating on open-source or side projects — feel free to open issues or PRs on my repositories!
 
 ---
 
-## Skills  
-- Web Development (HTML, CSS, JS)  
-- Frameworks: React JS, Laravel, .NET  
-- Tools: Git, GitHub, VS Code  
+## Skills
+- **Languages:** HTML, CSS, JavaScript, PHP, C#, SQL
+- **Frontend:** React JS
+- **Backend:** Laravel, .NET
+- **Currently Learning:** Node.js, Next.js
+- **Databases:** MySQL / SQL Server (familiar), NoSQL (upcoming)
+- **Tools:** Git, GitHub, VS Code
 
-## Tools  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![DotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-## Achievements  
-- 🎓 GitHub Student Developer Pack Member  
-- 🌟 Contributor to Open-Source Projects  
-
-## Highlights  
-🌌 [Galactic-Programming Team](https://github.com/Galactic-Programming)  
-👨‍💻 Developer Program Member  
+## Highlights
+- [Galactic-Programming Team](https://github.com/Galactic-Programming)
+- GitHub Student Developer Pack Member
 
 ---
 
-## Connect With Me  
-📫 How to reach me: yurivolkov1210@gmail.com or open a discussion on GitHub. Also on LinkedIn: linkedin.com/in/yourusername.
+## Connect With Me
+How to reach me: yurivolkov1210@gmail.com or open a discussion on GitHub. Also on LinkedIn: linkedin.com/in/duong-giang-483009384.
 
 ---
 
-## Fun Facts  
-⚡ Fun fact: I once debugged a Laravel app at midnight while dreaming of galactic adventures – coding is my space exploration!  
-😄 Pronouns: He/Him
+## Fun Facts
+- Whenever a project doesn't feel quite right, I tend to scrap everything and rebuild it from scratch — it costs time, but every rebuild teaches me something the first attempt didn't.
+- I often forget what I just learned a few days ago, so I find myself revisiting the same documentation over and over — turns out consistency beats memory.
+- Pronouns: He/Him
