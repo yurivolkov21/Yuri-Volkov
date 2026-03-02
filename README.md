@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-# Hi there!
+# Hi there, I'm Duong!
 ![Profile Banner](https://raw.githubusercontent.com/yurivolkov21/yurivolkov21/main/assets/images/astronaut-jelly-fish-space-digital-art-4k-wallpaper-uhdpaper.com-86@5@h.jpg)
 
 **Welcome to my Galactic-Programming journey!**
@@ -48,14 +48,31 @@ Outside of coding, I enjoy exploring new technologies, contributing to team proj
 
 ---
 
+## GitHub Stats
+
+![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurivolkov21&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurivolkov21&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## Highlights
 - [Galactic-Programming Team](https://github.com/Galactic-Programming)
 - GitHub Student Developer Pack Member
 
 ---
 
+## Featured Projects
+
+### [Larify](https://github.com/Galactic-Programming/larify)
+A collaborative task management web application built with the Galactic-Programming team. Users can register, create projects, organize work into lists and tasks, and track their progress — similar to a to-do list but more structured.
+
+**Key features:** Google & GitHub OAuth login, AI integration, project & task management.
+**Tech stack:** Laravel, React JS
+
+---
+
 ## Connect With Me
-How to reach me: yurivolkov1210@gmail.com or open a discussion on GitHub. Also on LinkedIn: linkedin.com/in/duong-giang-483009384.
+How to reach me: yurivolkov1210@gmail.com or open a discussion on GitHub. Also on LinkedIn: [linkedin.com/in/duong-giang-483009384](https://www.linkedin.com/in/duong-giang-483009384/).
 
 ---
 
