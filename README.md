@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-# Hi there, I'm Duong!
+# Hi there!
 ![Profile Banner](https://raw.githubusercontent.com/yurivolkov21/yurivolkov21/main/assets/images/astronaut-jelly-fish-space-digital-art-4k-wallpaper-uhdpaper.com-86@5@h.jpg)
 
 **Welcome to my Galactic-Programming journey!**
