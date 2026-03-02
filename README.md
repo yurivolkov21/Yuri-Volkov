@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 **Welcome to my Galactic-Programming journey!**
 [Twitter](https://x.com/YuriVolkov1210) | [LinkedIn](https://www.linkedin.com/in/duong-giang-483009384/) | [GitHub](https://github.com/yurivolkov21)
 
+![Profile Views](https://komarev.com/ghpvc/?username=yurivolkov21&style=flat-square&color=6366f1&label=Profile+Views)
+
 ---
 
 ## About Me
@@ -52,6 +54,8 @@ Outside of coding, I enjoy exploring new technologies, contributing to team proj
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yurivolkov21&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurivolkov21&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yurivolkov21&theme=tokyo-night&hide_border=true)
 
 ---
 
