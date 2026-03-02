@@ -50,8 +50,8 @@ Outside of coding, I enjoy exploring new technologies, contributing to team proj
 
 ## GitHub Stats
 
-![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurivolkov21&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurivolkov21&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yurivolkov21&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurivolkov21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
